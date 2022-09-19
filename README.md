@@ -32,6 +32,8 @@ __Without extension or ```.txt```__
 
 ![Text extension](./images/text.PNG "Text extension")
 
+***
+
 __With ```.csv``` extension__
 
 ![Text extension](./images/csv.PNG "Text extension")
